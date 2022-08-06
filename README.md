@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian(Nuggxt)</h1>
+<h1 align="center">Hi 👋, I'm Brian (NuggxtDev)</h1>
 <h3 align="center">A self taught developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuggxt&label=Profile%20views&color=0e75b6&style=flat" alt="nuggxt" /> </p>
