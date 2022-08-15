@@ -10,7 +10,6 @@
 <p align="center">
 <a href="https://twitter.com/nuggxtdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuggxtdev" height="30" width="40" /></a>
 <a href="https://instagram.com/nuggxt.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuggxt.dev" height="30" width="40" /></a>
-<a href="https://hashnode.com/@nuggetdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nuggetdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
