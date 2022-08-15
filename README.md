@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian (NuggxtDev)</h1>
 <h3 align="center">A self taught developer.</h3>
+<p align="center">Born in the US and have always had an itch to learn things out of my reach.</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuggxt" alt="nuggxt" /></a> </p>
 
