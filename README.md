@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Brian (Nuggxt)</h1>
-<h3 align="center">A passionate learner and creative thinker. Developing websites as a front-end developer</h3>
 
 - 🔭 I’m currently working on [PomoNugget](https://github.com/Nuggxt/PomoNugget)
 
