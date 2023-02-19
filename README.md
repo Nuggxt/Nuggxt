@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [PomoNugget](https://github.com/Nuggxt/PomoNugget)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and tailwind. Wanting to eventually learn react and flutter**
 
 - 🤝 I’m looking for help with **Learning and growing as a developer**
 
