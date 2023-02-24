@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian (Nuggxt)</h1>
+<h1 align="center">Hi 👋, I'm Brian (NuggxtDev)</h1>
 
 - 🔭 I’m currently working on [PomoNugget](https://github.com/Nuggxt/PomoNugget)
 
