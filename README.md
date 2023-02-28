@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Learning and growing as a developer**
 
-- ☁️ Always thinking about what could be made to help out others in life and on the web.
+- ☁️ Always thinking about what could be made to help out others in life and on the web!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
